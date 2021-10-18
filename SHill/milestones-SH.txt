@@ -1,0 +1,13 @@
+Project Milestones:
+
+10 points: Learn C# and research Unity
+15 points: Convert BlackJack program from C++ to C#
+10 points: Complete implementation with Unity device
+05 points: Complete documentation and commenting for BlackJack
+
+Total: 40 points
+
+Time Sheet (until 10/18/21):
+10/17/21 -- 30 min -- Met with teammates to discuss project further & 
+						decide how we are going to break it up. 
+
