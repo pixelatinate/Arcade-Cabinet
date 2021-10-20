@@ -2,5 +2,8 @@ Worked on:
 
 date            time started -  time end     time total
 
-10/18/2021         11:00am   -   1:00pm        3 hrs
-10/18/2021          0:00pm   -    :  pm   
+10/18/2021         11:00am   -   1:00pm        3   hrs
+10/18/2021          3:00pm   -   4:30pm        1.5 hrs
+10/20/2021          2:00pm   -   3:00pm        1   hrs
+10/00/2021           :  pm   -    :  pm            hrs
+
