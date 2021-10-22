@@ -1,4 +1,6 @@
-milestones challenge 07
+Repository: https://github.com/pixelatinate/Arcade-Cabinet.git
+Members: Carter Earheart-Brown (@cearhear), Stephanie Hill (@stephhill77), Swasti Mishra (@pixelatinate), and Katie Nuchols (@knuchols)
+Milestones challenge 07
 Katie Nuchols
 
 20 tutorial for c#
