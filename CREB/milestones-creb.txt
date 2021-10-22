@@ -1,0 +1,17 @@
+Challenge07 Milestones
+Carter Earheart-Brown
+Rubric out of 40 points
+-------
+10-Complete Basic Unity Tutorials/Sound Tutorials
+5-Help work On Converting Blackjack Game to C#
+15-Tying both games together into Arcade Cabinet in Unity
+10-Creating Sound Effects/Music
+Scripting sound queues in Unity
+
+Time-Log
+--------
+10-17 - 20 minute team meeting planning for the week
+10-18 - 30 minutes before lab downloading Unity and looking up resources
+10-18 - 1.5 hours in lab. Worked through Unity essentials first tutorial and played around with microgrames
+10-20 - 1 hour working around on music
+10-21 - 2.5 hours Reading C# reference material/tutorial. Also worked on more Unity tutorials
