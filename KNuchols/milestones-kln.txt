@@ -4,3 +4,37 @@ Katie Nuchols
 20 tutorial for c#
 15 intro to Unity
 5 set up Unity account
+
+what I learned:
+Going through the tutorials for C# I learned that it is similar to C and C++.
+There is some minor differences and one thing I noticed is that the fucntions that 
+are used are usually capitalized instead of lowercase. This is something I noticed about
+C#. For learning the language I used two websites, one was better for reading and the other had reading and 
+tutorials that you could run through. https://www.guru99.com/c-sharp-tutorial.html and https://www.w3schools.com/cs/index.php
+
+Then I set up my Unity profile and this took a bit to make sure that all of the 
+software and needed programs were downloaded. I also had to make sure that all
+of the software is compatible with my system. 
+
+Then I ran through the UNity learn tutorial for the system. This allowed me to see
+a bit more how the software works and what kind of thing it will acheive, for this 
+I used https://learn.unity.com/pathway/unity-essentials. It is a simple tutorial but allowed 
+me to learn a bit more of the environment and how to run and use the software when designing
+for our project. 
+
+
+
+Worked on:
+
+date            time started -  time end     time total
+
+10/18/2021         11:00am   -   1:00pm        3   hrs
+10/18/2021          3:00pm   -   4:30pm        1.5 hrs
+10/20/2021          2:00pm   -   3:00pm        1   hrs
+10/21/2021          7:00pm   -   9:30pm        2.5 hrs
+
+Overview:
+There was no major code that went to the repository but I still managed to learn 
+some essential stuff for the project ahead. This is important for the success of 
+the project and developing skills. Some things took longer than originally expected
+and other things took less. 
