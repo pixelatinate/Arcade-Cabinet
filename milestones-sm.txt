@@ -1,0 +1,15 @@
+2 Hours:    Updating my old code (BlackJack and Slot Machine)
+1 Hour :    Setting Up Repository and Ordering Files
+3 Hours:    Reading about proper website organization, setting up files,
+                Writing Website
+
+15 Working Blender Model
+25 Working Website
+
+You can see the website (VERY MUCH STILL IN PROGRESS) here: 
+https://github.com/pixelatinate/Arcade-Cabinet/tree/main/Website
+
+    This challenege went well! I'm starting a job soon in web development 
+that I'm honestly woefully underqualified for, so getting this time to
+practice before I start is really valauble. I'm also excited to set up a 
+website where we can eventually put host Arcade-Cabinet Executable. 
