@@ -15,3 +15,7 @@ Time Sheet (until 10/18/21):
 10/21/21 -- 2.5 hrs -- Read more about C# and started to look at the C++ code for Blackjack 
 11/08/21 -- 1 hr -- Fixed C++ code for Blackjack to work correctly
 11/14/21 -- 7 hr -- Started building Blackjack in Unity. Started writing the script for StartGame. Learning about Unity as I go.  
+11/26/21 -- 5 hr -- Implemented the deck and card flip animation
+11/27/21 -- 7 hr -- Implemented the scoring system, dealer hand, and player hand. 
+11/28/21 -- 
+
