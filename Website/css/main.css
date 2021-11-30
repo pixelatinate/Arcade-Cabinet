@@ -11,8 +11,22 @@ body {
     padding: 0 ;
 }
 
-a {
+a:link {
     text-decoration: none ;
+}
+
+a:hover {
+    text-decoration: none ;
+    color: #000000 ;
+}
+
+a:active{
+    color:rgba(0,0,0, 0.15)
+}
+
+.header-link:hover li {
+    background-color: rgb(65,65,65) ;
+    color: rgb(109,198,97) ;
 }
 
 .wrapper {
@@ -43,15 +57,6 @@ a {
     padding-top: 23px ;
 }
 
-a:hover {
-    text-decoration: none ;
-    color: #871207 ;
-}
-
-.header-link:hover li {
-    background-color: rgb(65,65,65) ;
-    color: rgb(109,198,97) ;
-}
 
 .clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
 .clearfix:after { clear: both; }
