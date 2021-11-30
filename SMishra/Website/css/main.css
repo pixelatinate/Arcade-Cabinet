@@ -1,0 +1,123 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    color: #000000;
+    font-family: Roboto ;
+    margin: 0 ;
+    padding: 0 ;
+}
+
+a {
+    text-decoration: none ;
+}
+
+.wrapper {
+    width: 100%;
+    overflow: hidden;
+}
+
+.main {
+    padding: 30px 20px;
+}
+
+.title {
+    float: left ;
+    font-family: 'Ruda', serif;
+    font-weight: bolder ;
+    font-size: 2.5em;
+    color:#e71e0b ;
+    padding-left: 50px ;
+    padding-top: 0px ;
+}
+
+.top-buttons {
+    float: left ;
+    font-family: 'Ruda', serif;
+    font-weight: bold ;
+    font-size: 1.5em;
+    margin-left: 50px ;
+    padding-top: 23px ;
+}
+
+a:hover {
+    text-decoration: none ;
+    color: #871207 ;
+}
+
+.header-link:hover li {
+    background-color: rgb(65,65,65) ;
+    color: rgb(109,198,97) ;
+}
+
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
+
+/* Responsive styles */
+/* -------------------------------------------------------------- */
+@media screen and (min-width:1500px) {
+    .index-page .post {
+        width: 25%;
+    }
+}
+@media screen and (min-width:2200px) {
+    .index-page .post {
+        width: 20%;
+    }
+}
+@media screen and (max-width:1339px) {
+    .permalink-page .posts-container {
+        width: 500px;
+    }
+    .post-meta {
+        border-top: 1px solid rgba(0,0,0, 0.15);
+        border-left: 0;
+    }
+    ol.notes {
+        -webkit-columns: 1;
+        -moz-columns: 1;
+        columns: 1;
+    }
+}
+@media screen and (max-width:1151px) {
+    .index-page .post {
+        width: 50%;
+    }
+}
+@media screen and (max-width:810px) {
+    .index-page .post {
+        width: 100%;
+    }
+    .permalink-page .post {
+        width: 400px;
+    }
+    .permalink-page .posts-container {
+        width: 400px;
+    }
+}
+@media screen and (max-width:420px) {
+    .index-page .post-content {
+        margin: 10px;
+    }
+    .permalink-page .main {
+        padding: 20px;
+    }
+}
+
+body.font-sans-serif .tmblr-lightbox .lightbox-caption {
+    font-family: Roboto, Helvetica, Arial, sans-serif !important;
+    font-weight: 500;
+}
+body.font-serif .tmblr-lightbox .lightbox-caption {
+    font-family: Georgia, serif !important;
+    font-weight: 400;
+}
+
+.photo-link[href=""] {
+    display: none;
+}
+
