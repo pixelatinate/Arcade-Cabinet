@@ -1,0 +1,15 @@
+Time-Log
+--------
+10-17 - 20 minute team meeting planning for the week
+10-18 - 30 minutes before lab downloading Unity and looking up resources
+10-18 - 1.5 hours in lab. Worked through Unity essentials first tutorial and played around with microgrames
+10-20 - 1 hour working around on music
+10-21 - 2.5 hours Reading C# reference material/tutorial. Also worked on more Unity tutorials
+11-11 - 1 hour researching Render Textures in unity
+11-18 - 2 hours going through Steph's blackjack demo and Unity research
+11-21 - 1 hour bringing blender model into Unity and exploring 3d assets
+11-26 - 2 hours working with the finished Slot Machine. Exploring changing scenes in unity and combining
+projects by exporting as an asset.
+11-28 - 3 hours using 3d fps assets from Unity. Starting to bring blackjack and slots into this 3d project
+11-29 - 8 hours attempting to set up render texture on arcade, couldn't get control through the render texture to 
+be consistent or visible enough to be usable. troubleshooting export to webgl for website.
