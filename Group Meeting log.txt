@@ -1,0 +1,12 @@
+Group Meetings Report
+
+10/17/21: Met for 30 minutes to discuss project idea and how we would break it down. 
+		Stephanie - Blackjack; Katie - Slot Machine; Swasti - Arcade cabinet, website; Carter - Music composition, combine games in Unity
+10/20/21 : Met briefly to discuss progress and share resources for learning Unity and C#.
+10/28/21: Met briefly to discuss progress. Mostly still watching tutorials. 
+11/11/21: Met briefly to discuss progress. Not much made. Blackjack C++ code is working. Discussion on who would be making the sprites for Blackjack (Swasti).
+11/14/21: Met for 30 minutes to dicuss what each of us had to present for Monday's demo during lab. Also discussed what data structures people were using so that the presentation could be 	put together for Tuesdays BYODS presentation. 
+11/25/21: Met to discuss when parts on project would be done so that they could be added to GitHub for Carter to put together. 
+		Katie - already done, Swasti - later today, Stephanie - by Saturday evening
+11/29/21: Met for 3 hours to troubleshoot WebGL so that project could be displayed on website (having issues getting it them to load). Ended up being an issue with how Unity compressed the 	files. Stephanie firgured out a work around. By end of meeting Swasti was able to get the pieces hosted on the site.    
+ 
